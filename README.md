@@ -4,3 +4,6 @@
 
 ## Используемые инструменты
 DataLens
+
+## Ссылка на проект в DataLens
+https://datalens.yandex/ygnixni7c61ok
