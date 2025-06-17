@@ -1,1 +1,1 @@
-# Niche_analysis_for_WB
+# Описание проекта
